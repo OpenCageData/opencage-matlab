@@ -3,7 +3,7 @@ function [results]=OpenCageForward(key,q,varargin)
 %   This package is an interface to the OpenCage API that allows forward 
 %   and reverse geocoding. To use the package, you will need an API key. 
 %   To get an API key for OpenCage geocoding, register at 
-%   https://geocoder.opencagedata.com/pricing. The free API key provides 
+%   https://opencagedata.com/pricing. The free API key provides 
 %   up to 2,500 calls a day.
 %
 %   Required input variables:
