@@ -6,7 +6,7 @@ Learn more about the [OpenCage Geocoding API](https://opencagedata.com) on their
 This code contains two different methods, one for [forward geocoding](OpenCageForward.m) (adddress to coordinates) and one for [reverse geocoding](OpenCageReverse.m) (coordinates to address)
 
 This code was originally written by Alexander Dentler and has been uploaded here and
-open-sourced with his permission.
+open-sourced with his permission. All improvements or patches are very welcome. 
 
 There are also [libraries to access the OpenCage API](https://opencagedata.com/code) in
 many other languages including R, Stata, Python, ...
