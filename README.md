@@ -8,5 +8,5 @@ This code contains two different methods, one for [forward geocoding](OpenCageFo
 This code was originally written by Alexander Dentler and has been uploaded here and
 open-sourced with his permission. All improvements or patches are very welcome. 
 
-There are also [libraries to access the OpenCage API](https://opencagedata.com/code) in
+There are also [libraries to access the OpenCage API](https://opencagedata.com/sdks) in
 many other languages including R, Stata, Python, ...
