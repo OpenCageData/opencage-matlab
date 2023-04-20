@@ -2,6 +2,12 @@
 
 Code for accessing the OpenCage Geocoding API in MATLAB
 
+## Tutorial
+
+YOu can find a [tutorial for using this code on the OpenCage site](https://opencagedata.com/tutorials/geocode-in-matlab).
+
+## Background
+
 Learn more about the [OpenCage Geocoding API](https://opencagedata.com) on their website where you can also register for an API key. If you need more requests than the free trial allows you can become a customer. 
 
 This code contains two different methods, one for [forward geocoding](OpenCageForward.m) (adddress to coordinates) and one for [reverse geocoding](OpenCageReverse.m) (coordinates to address). There is [a tutorial for using the methods](https://opencagedata.com/tutorials/geocode-in-matlab) on the OpenCage site.
